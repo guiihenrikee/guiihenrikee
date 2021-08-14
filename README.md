@@ -1,4 +1,4 @@
-### Olá, meu nome é <strong>Guilherme!</strong> [![guiihenrikee]( https://img.shields.io/github/followers/guiihenrikee?label=follow&style=social)](https://github.com/guiihenrikee)
+### Olá, meu nome é <strong>Guilherme!</strong>     [![guiihenrikee]( https://img.shields.io/github/followers/guiihenrikee?label=follow&style=social)](https://github.com/guiihenrikee)
 
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistema na IFPR - Campus Londrina.
