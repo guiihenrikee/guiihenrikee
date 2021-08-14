@@ -7,7 +7,7 @@
 
 🌱 Atualmente estudando Python e em busca de meu primeiro emprego como Dev.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihenrikee/)](https://www.linkedin.com/in/guiihenrikee/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihenrikee/)](https://www.linkedin.com/in/guiihenrikee/)
 
 ---
 
