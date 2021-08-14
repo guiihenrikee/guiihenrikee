@@ -6,15 +6,8 @@
 💼 Trabalhando como Suporte/Helpdesk.
 
 🌱 Atualmente estudando Python e em busca de meu primeiro emprego como Dev.
- 
-   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gui.ghrp@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihenrikee/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=43999952360"/></a> 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihenrikee/)](https://www.linkedin.com/in/engincan-veske-b4a75b145/)
 
 ---
 
