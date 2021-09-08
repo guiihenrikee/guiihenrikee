@@ -15,8 +15,8 @@
 ## 🚀 Learning...
 
 <a href="https://www.python.org" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="python" width="40" height="40"/> </a>
-<a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-4.png" alt="html" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="css" width="40" height="40"/> </a>
+<a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
