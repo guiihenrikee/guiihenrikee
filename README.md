@@ -3,7 +3,7 @@
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistema na IFPR - Campus Londrina.
 
-💼 Trabalhando como Suporte/Helpdesk.
+💼 Trabalhando como Analista de Suporte Bilíngue na TCS.
 
 🌱 Atualmente estudando Python e em busca de meu primeiro emprego como Dev.
 
