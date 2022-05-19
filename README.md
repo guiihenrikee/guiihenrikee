@@ -18,8 +18,8 @@
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Javascript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Javascript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Javascript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
 ## ⭐ Informações sobre minha conta GitHub
 <div>
   <a href="https://github.com/guiihenrikee">
