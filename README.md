@@ -5,7 +5,7 @@
 
 💼 Trabalhando como Analista de Suporte Bilíngue na TCS.
 
-🌱 Atualmente estudando Python e em busca de meu primeiro emprego como Dev.
+🌱 Atualmente estudando Web com JS, Node e React e em busca de meu primeiro emprego como Dev.
 
 <p><a href="https://github.com/guiihenrikee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guiihenrikee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
