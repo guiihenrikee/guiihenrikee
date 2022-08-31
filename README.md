@@ -1,4 +1,4 @@
-### Hello! My Name is <strong>Guilherme!</strong>     [![guiihenrikee]( https://img.shields.io/github/followers/guiihenrikee?label=follow&style=social)](https://github.com/guiihenrikee)
+### Hello! My Name is <strong>Guilherme!</strong>
 
 
 🎓 I am a student of the Systems Analysis and Development course at IFPR - Londrina. Finishing on March/23
@@ -7,7 +7,7 @@
 
 🌱 I am studying to become a developer. I am currently learning Javascript, Node and React.
 
-<p><a href="https://github.com/guiihenrikee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guiihenrikee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guiihenrikee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
