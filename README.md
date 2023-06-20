@@ -1,11 +1,11 @@
 ### Hello! My Name is <strong>Guilherme!</strong>
 
 
-🎓 I am a student of the Systems Analysis and Development course at IFPR - Londrina. Finishing on March/23
-
-💼 Currently working as a support analyst at TCS.
-
-🌱 I am studying to become a developer. I am currently learning Javascript, Node and React.
+🎓 💼 🌱 
+I am an experienced Support Analyst and a Software Developer Student. 
+I am a highly motivated person, and constantly developing my skills. 
+I have extensive technical knowledge, I am working for a long time with customer service, and developed an outstanding interpersonal capacity. 
+I just finished my degree in Systems Analysis and Development at IFPR and I am currently studying about Microsoft Azure and 365 applications.
 
 <a href="https://www.linkedin.com/in/guiihenrikee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
