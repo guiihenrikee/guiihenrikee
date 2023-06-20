@@ -2,11 +2,12 @@
 
 
 🎓 💼 🌱 
-I am an experienced Support Analyst and a Software Developer Student. 
-I am a highly motivated person, and constantly developing my skills. 
-I have extensive technical knowledge, I am working for a long time with customer service, and developed an outstanding interpersonal capacity. 
-I just finished my degree in Systems Analysis and Development at IFPR and I am currently studying about Microsoft Azure and 365 applications.
-
+<div>
+<p> I am an experienced Support Analyst and a Software Developer Student. </p>
+<p> I am a highly motivated person, and constantly developing my skills. </p>
+<p> I have extensive technical knowledge, I am working for a long time with customer service, and developed an outstanding interpersonal capacity. </p>
+<p> I just finished my degree in Systems Analysis and Development at IFPR and I am currently studying about Microsoft Azure and 365 applications.</p>
+</div>
 <a href="https://www.linkedin.com/in/guiihenrikee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
